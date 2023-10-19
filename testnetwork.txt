@@ -1,0 +1,61 @@
+	Security	Holder	Weight
+1	A UN Equity	Cantillon Capital Management LLC	0.0314
+2	A UN Equity	Bluespruce Investments LP	0.0489
+3	A UN Equity	Echo Street Capital Management LLC	0.0213
+4	A UN Equity	Two Sigma Investments LP	0.0000
+5	A UN Equity	DE Shaw & Co LP	0.0000
+6	A UN Equity	MARSHALL WACE	0.0000
+7	A UN Equity	Squarepoint Ops LLC	0.0045
+8	A UN Equity	Citadel Advisors LLC	0.0006
+9	A UN Equity	Frontier Capital Management Co LLC	0.0046
+10	A UN Equity	Arrowstreet Capital LP	0.0005
+11	A UN Equity	Renaissance Technologies LLC	0.0006
+12	A UN Equity	TwinBeech Capital LP	0.0078
+13	A UN Equity	Select Equity Group LP	0.0014
+14	A UN Equity	Millennium Management LLC/NY	0.0004
+15	A UN Equity	Balyasny Asset Management LP	0.0008
+16	A UN Equity	AQR Capital Management LLC	0.0006
+17	A UN Equity	Osterweis Capital Management Inc	0.0137
+18	A UN Equity	Adage Capital Management LP	0.0000
+19	A UN Equity	Corient Private Wealth LLC	0.0005
+20	A UN Equity	Cinctive Capital Management LP	0.0053
+21	AAL UW Equity	Two Sigma Investments LP	0.0000
+22	AAL UW Equity	Renaissance Technologies LLC	0.0044
+23	AAL UW Equity	DE Shaw & Co LP	0.0000
+24	AAL UW Equity	Balyasny Asset Management LP	0.0053
+25	AAL UW Equity	Millennium Management LLC/NY	0.0006
+26	AAL UW Equity	PAR Capital Management Inc	0.0175
+27	AAL UW Equity	Point72 Asset Management LP	0.0000
+28	AAL UW Equity	Cubist Systematic Strategies LLC	0.0026
+29	AAL UW Equity	AQR Capital Management LLC	0.0005
+30	AAL UW Equity	Squarepoint Ops LLC	0.0012
+31	AAL UW Equity	MARSHALL WACE	0.0000
+32	AAL UW Equity	ExodusPoint Capital Management LP	0.0020
+33	AAL UW Equity	Citadel Advisors LLC	0.0002
+34	AAL UW Equity	Adage Capital Management LP	0.0000
+35	AAL UW Equity	Gotham Asset Management LLC	0.0025
+36	AAL UW Equity	Holocene Advisors LP	0.0004
+37	AAL UW Equity	Portman Square Capital LLP	0.0172
+38	AAL UW Equity	Twin Tree Management LP	0.0015
+39	AAL UW Equity	J Goldman & Co LP	0.0042
+40	AAL UW Equity	Soros Fund Management LLC	0.0016
+41	AAPL UW Equity	Arrowstreet Capital LP	0.0515
+42	AAPL UW Equity	Adage Capital Management LP	0.0000
+43	AAPL UW Equity	Corient Private Wealth LLC	0.0519
+44	AAPL UW Equity	Winslow Capital Management LLC	0.0794
+45	AAPL UW Equity	AQR Capital Management LLC	0.0366
+46	AAPL UW Equity	DE Shaw & Co LP	0.0000
+47	AAPL UW Equity	Two Sigma Investments LP	0.0000
+48	AAPL UW Equity	MARSHALL WACE	0.0000
+49	AAPL UW Equity	Renaissance Technologies LLC	0.0137
+50	AAPL UW Equity	Williams Jones Wealth Management L	0.0642
+51	AAPL UW Equity	Millennium Management LLC/NY	0.0037
+52	AAPL UW Equity	Squarepoint Ops LLC	0.0186
+53	AAPL UW Equity	RJA Asset Management LLC	0.8902
+54	AAPL UW Equity	Hudson Bay Capital Management LP	0.0336
+55	AAPL UW Equity	IEQ Capital LLC	0.0596
+56	AAPL UW Equity	Kovitz Investment Group Partners L	0.0317
+57	AAPL UW Equity	Stonegate Investment Group LLC	0.0716
+58	AAPL UW Equity	Echo Street Capital Management LLC	0.0173
+59	AAPL UW Equity	Tocqueville Asset Management LP	0.0349
+60	AAPL UW Equity	Citadel Advisors LLC	0.0018
